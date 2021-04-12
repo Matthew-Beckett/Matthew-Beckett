@@ -21,11 +21,11 @@ Please don't hesitate to ask me about Platform Engineering, DevOps, Python, Powe
 
 <h4  align="left">Current Work</h4>
 
-- 💼 I primarily work full time at [Airtime Rewards](https://www.airtimerewards.co.uk) as a platform engineer.
+- 💼 I primarily work full time at [LIMA Networks](https://www.lima.co.uk) as a Cloud Consultant in the Optimise Team.
 
-- 🏎️ My main side project is working on indexing and searching all ClickDealer car dealerships to find my next car.
+- 🏎️ My main side project is working on indexing and searching all ClickDealer car dealerships to find my next car, as well as the design and build of a UAV fixed wing camera drone.
 
-- 🕹️ I also contribute to [SwitchRoot](https://gitlab.com/switchroot) on GitLab assiting with DevOps and CI/CD.
+- 🕹️ I have also contributed to [SwitchRoot](https://gitlab.com/switchroot) on GitLab assiting with DevOps and CI/CD.
 
 <h4  align="left">Notable Work</h4>
 
@@ -37,6 +37,3 @@ Please don't hesitate to ask me about Platform Engineering, DevOps, Python, Powe
 - 📫 Email: **matt@beckett.cloud**
 
 - <img  src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg"  alt="kubernetes"  width="23"  height="23"/>  </a> Keybase: **matt_beckett**
-
-<h3  align="left">Languages and Tools:</h3>
-<p  align="left">  <a  href="https://aws.amazon.com"  target="_blank">  <img  src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="aws"  width="40"  height="40"/>  </a>  <a  href="https://www.docker.com/"  target="_blank">  <img  src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"  alt="docker"  width="40"  height="40"/>  </a>  <a  href="https://kubernetes.io"  target="_blank">  <img  src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  alt="kubernetes"  width="40"  height="40"/>  </a>  <a  href="https://www.python.org"  target="_blank">  <img  src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>  </p>
