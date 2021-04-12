@@ -23,9 +23,19 @@ Please don't hesitate to ask me about Platform Engineering, DevOps, Python, Powe
 
 - 💼 I primarily work full time at [LIMA Networks](https://www.lima.co.uk) as a Cloud Consultant in the Optimise Team.
 
-- 🏎️ My main side project is working on indexing and searching all ClickDealer car dealerships to find my next car, as well as the design and build of a UAV fixed wing camera drone.
+- 🏎️ My main side project is working on indexing and searching all ClickDealer car dealerships to find my next car. 
 
 - 🕹️ I have also contributed to [SwitchRoot](https://gitlab.com/switchroot) on GitLab assiting with DevOps and CI/CD.
+
+- ✈️ When not writing code, I'm designing and building various types of RC aircraft and fly freestyle FPV multirotors.
+
+<h4  align="left">Aircraft Fleet</h4>
+
+- Mini Skyhunter V2 - Ardupilot equipped, fully autonomous - Autonomous Fixed Wing Development Aircraft (3S)
+- Flywoo Explorer LR 4 - iNav equipped, semi autonomous - Long-range Multirotor Cruiser (4S)
+- TBS Source One V4 - EmuFlight equipped, no autonomy - Designed exclusively for Freestyle FPV (6S)
+- Eachine Tyro79 - Betaflight equipped, no autonomy - 3" FPV Racing Drone (3S)
+- NewBeeDrone AcroBee Lite - Betaflight equipped, no autonomy - Miniature short-range indoor FPV multirotor (1S)
 
 <h4  align="left">Notable Work</h4>
 
