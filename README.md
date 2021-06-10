@@ -42,6 +42,8 @@ Please don't hesitate to ask me about Platform Engineering, DevOps, Python, Powe
 -  🎉 First pull request to a public open-source project  🎉
 	- [cdr/code-server](https://github.com/cdr/code-server) Kubernetes Helm Chart - [PR](https://github.com/cdr/code-server/pull/2048)
 
+-  🔧 Maintainer of [matthew-beckett/netxms-dockerfiles](https://github.com/Matthew-Beckett/netxms-dockerfiles) and upstream maintainer of [netxms/netxms-dockerfiles](https://github.com/netxms/netxms-dockerfiles) 🔧
+
 <h4  align="left">Contact Me</h4>
 
 - 📫 Email: **matt@beckett.cloud**
